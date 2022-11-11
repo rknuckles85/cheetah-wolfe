@@ -1,4 +1,2 @@
-# cheetah-wolfe
-npx create-react-app amplifyapp
-cd amplifyapp
-npm start
+# cheetah-wolfE 
+HEY HOW ARE YOU, LETS EXPLORE
